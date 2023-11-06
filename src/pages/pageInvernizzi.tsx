@@ -22,6 +22,10 @@ export const PageInvernizzi = () => {
       <p>Carbonara</p>
       <p>Wellington steak</p>
       <p>Dorayaki</p>
+      <p>
+        Esercizio 5: uso git rebase -i HEAD~4 modificando il primo commento e
+        squashando gli altri
+      </p>
     </div>
   );
 };
