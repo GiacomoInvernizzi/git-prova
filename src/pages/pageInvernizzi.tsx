@@ -26,6 +26,14 @@ export const PageInvernizzi = () => {
         Esercizio 5: uso git rebase -i HEAD~4 modificando il primo commento e
         squashando gli altri
       </p>
+      <p>Fabrizio De Andre</p>
+      <p>Harrison Ford</p>
+      <p>Maradona</p>
+      <p>
+        Esercizo 6: è possibile farlo in git con git merge --squash nome_branch,
+        altrimenti github permette di farlo al momento della merge di una pull
+        request attraverso l'apposita opzione
+      </p>
     </div>
   );
 };
