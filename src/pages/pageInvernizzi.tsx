@@ -26,6 +26,7 @@ export const PageInvernizzi = () => {
         Esercizio 5: uso git rebase -i HEAD~4 modificando il primo commento e
         squashando gli altri
       </p>
+      <p>Fabrizio De Andre</p>
     </div>
   );
 };
