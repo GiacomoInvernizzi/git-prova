@@ -9,4 +9,8 @@ export const users: TypeUser[] = [
     name: "Leonardo Apostolo",
     path: "apostolo",
   },
+  {
+    name: "Giacomo Invernizzi",
+    path: "invernizzi",
+  },
 ];
