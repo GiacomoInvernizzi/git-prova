@@ -34,6 +34,9 @@ export const PageInvernizzi = () => {
         altrimenti github permette di farlo al momento della merge di una pull
         request attraverso l'apposita opzione
       </p>
+      <p>
+        Esercizio 7: è possibile farlo attraverso il comando git commit --amend
+      </p>
     </div>
   );
 };
