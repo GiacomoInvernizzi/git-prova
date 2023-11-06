@@ -28,6 +28,7 @@ export const PageInvernizzi = () => {
       </p>
       <p>Fabrizio De Andre</p>
       <p>Harrison Ford</p>
+      <p>Maradona</p>
     </div>
   );
 };
