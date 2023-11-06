@@ -4,6 +4,7 @@ import App from "../App";
 import PageError from "../pages/pageError";
 import PageReverberi from "../pages/pageReverberi";
 import PageApostolo from "../pages/pageApostolo";
+import { PageInvernizzi } from "../pages/pageInvernizzi";
 
 export const router = createBrowserRouter([
   {
@@ -22,6 +23,10 @@ export const router = createBrowserRouter([
       {
         path: "apostolo",
         element: <PageApostolo />,
+      },
+      {
+        path: "invernizzi",
+        element: <PageInvernizzi />,
       },
     ],
   },
