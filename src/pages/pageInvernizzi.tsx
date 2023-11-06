@@ -18,6 +18,10 @@ export const PageInvernizzi = () => {
         più controllo, però non avevo voglia di smattare con i vari conflitti di
         merge
       </p>
+      <p>Mozzarella sticks</p>
+      <p>Carbonara</p>
+      <p>Wellington steak</p>
+      <p>Dorayaki</p>
     </div>
   );
 };
